@@ -1,4 +1,6 @@
-Hello! This is the GS Connect GitHub
+GS Connect | Digital Revolution
+
+Idk what you doing here, but thanks for the visit.
 We love Linux, Open Source Software, Privacy and freedom. 
 
 
