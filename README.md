@@ -2,6 +2,21 @@
 
 Idk what you doing here, but thanks for the visit. :gem:	
 We love Linux :tophat:	, Open Source Software :unlock:	, Privacy and freedom. :iphone:	
+White Hat. Working on making the internet a safe place. 
+
+We are a small company that wished to deliver web hosting services that allow flexibility and customization for the users.
+Currently understaffed, very busy with personal and client projects. Apologies for the website being down, we literally don't 
+have the time to work on it. 
+
+Few interesting things are coming, be sure to follow us in all social media! @gscconnect
+
+
+
+
+
+
+
+
 
 ## Current Projects are:
 ### 🗺️ GS CyberPanel Lightweight
